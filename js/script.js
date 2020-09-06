@@ -21,7 +21,8 @@ $(document).ready(function(){
         $(this).addClass("active");
         $(this).siblings().removeClass("active");
         $(".remove").removeClass("wow fadeInUp").css({
-            "animation-name":"ww"
+            "animation-name":"ww",
+            "visibility":"visible"
         });
     })
 
