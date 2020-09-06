@@ -480,6 +480,10 @@ section.room-menu .butt:hover{
         font-size: 14px;
         text-align: justify;
     }
+    .remove{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
 }
 /****************************************** facts-container **************************************/
 
