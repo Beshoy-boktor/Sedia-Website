@@ -466,6 +466,10 @@ section.room-menu .butt:hover{
     .img-hov{
         display: none;
     }
+    .remove{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
 }
 @media (max-width: 575.98px){
     .filter-butt{
